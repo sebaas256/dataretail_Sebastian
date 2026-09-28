@@ -1,0 +1,131 @@
+id_evento,municipio_referencia,region,latitud,longitud,canal,monto_estimado,fecha
+1,La Unión,Oriente,13.34079,-87.841485,App,166,2026-08-03
+2,San Miguel,Oriente,13.493469,-88.185016,Web,1193,2026-08-04
+3,San Miguel,Oriente,13.460085,-88.194996,App,908,2026-08-08
+4,Usulután,Oriente,13.359445,-88.444906,Web,157,2026-08-19
+5,San Salvador,Centro,13.704186,-89.234023,Web,1175,2026-08-19
+6,Apopa,Centro,13.815845,-89.17598,Tienda física,628,2026-08-28
+7,Santa Tecla,Centro,13.686826,-89.269499,App,624,2026-08-04
+8,La Unión,Oriente,13.341632,-87.843696,App,1131,2026-08-29
+9,Ahuachapán,Occidente,13.919753,-89.837816,Tienda física,1146,2026-08-29
+10,Apopa,Centro,13.803013,-89.173621,Call center,1030,2026-08-31
+11,San Salvador,Centro,13.692026,-89.229594,App,608,2026-08-18
+12,Soyapango,Centro,13.703037,-89.128679,Tienda física,705,2026-08-24
+13,Apopa,Centro,13.80831,-89.171679,Web,342,2026-08-10
+14,San Miguel,Oriente,13.470338,-88.179007,Tienda física,857,2026-08-16
+15,Ahuachapán,Occidente,13.928129,-89.866723,Web,344,2026-08-24
+16,Zacatecoluca,Paracentral,13.522313,-88.866413,Web,968,2026-08-01
+17,Mejicanos,Centro,13.749663,-89.213384,App,1069,2026-08-15
+18,Santa Tecla,Centro,13.668654,-89.288974,Web,91,2026-08-25
+19,San Miguel,Oriente,13.480458,-88.181502,App,94,2026-08-15
+20,Usulután,Oriente,13.351691,-88.460717,Web,935,2026-08-12
+21,Santa Ana,Occidente,13.990182,-89.560272,Tienda física,273,2026-08-30
+22,Usulután,Oriente,13.356224,-88.424273,Tienda física,1172,2026-08-28
+23,Mejicanos,Centro,13.746807,-89.227095,Tienda física,338,2026-08-26
+24,Santa Ana,Occidente,13.970313,-89.568962,App,229,2026-08-02
+25,Mejicanos,Centro,13.759136,-89.215232,App,1124,2026-08-01
+26,San Salvador,Centro,13.690445,-89.192734,Web,334,2026-08-16
+27,Santa Tecla,Centro,13.68929,-89.28786,App,408,2026-08-30
+28,San Salvador,Centro,13.689739,-89.221049,App,615,2026-08-07
+29,Ahuachapán,Occidente,13.943864,-89.850875,Tienda física,105,2026-08-22
+30,Apopa,Centro,13.782074,-89.184581,Web,769,2026-08-26
+31,Mejicanos,Centro,13.740769,-89.173156,Tienda física,758,2026-08-16
+32,Zacatecoluca,Paracentral,13.51771,-88.869129,Web,1131,2026-08-24
+33,Soyapango,Centro,13.710931,-89.128211,App,982,2026-08-11
+34,Apopa,Centro,13.828907,-89.181121,Call center,1091,2026-08-12
+35,Usulután,Oriente,13.35706,-88.460597,Web,94,2026-08-18
+36,Soyapango,Centro,13.701807,-89.143037,App,1021,2026-08-26
+37,San Salvador,Centro,13.695391,-89.233059,Web,846,2026-08-18
+38,Soyapango,Centro,13.700304,-89.126405,Tienda física,974,2026-08-25
+39,Santa Tecla,Centro,13.680588,-89.306301,Web,712,2026-08-03
+40,San Vicente,Paracentral,13.657775,-88.806152,Tienda física,441,2026-08-30
+41,La Unión,Oriente,13.322253,-87.862609,Tienda física,900,2026-08-03
+42,Ahuachapán,Occidente,13.925757,-89.829434,App,1079,2026-08-17
+43,La Unión,Oriente,13.337152,-87.849135,Call center,828,2026-08-20
+44,Usulután,Oriente,13.361808,-88.427052,Web,387,2026-08-25
+45,Santa Tecla,Centro,13.689683,-89.296988,Call center,948,2026-08-07
+46,Zacatecoluca,Paracentral,13.519932,-88.866847,App,681,2026-08-05
+47,Santa Ana,Occidente,13.983433,-89.555806,Tienda física,1163,2026-08-09
+48,La Unión,Oriente,13.357004,-87.836834,App,146,2026-08-13
+49,Zacatecoluca,Paracentral,13.532995,-88.872765,Tienda física,218,2026-08-29
+50,Apopa,Centro,13.790919,-89.196677,Tienda física,1139,2026-08-25
+51,Santa Tecla,Centro,13.66001,-89.300619,Tienda física,603,2026-08-12
+52,Soyapango,Centro,13.723034,-89.161645,Call center,177,2026-08-03
+53,Mejicanos,Centro,13.75804,-89.21829,Web,902,2026-08-08
+54,La Unión,Oriente,13.318996,-87.840327,Tienda física,720,2026-08-30
+55,La Unión,Oriente,13.326973,-87.850791,App,657,2026-08-21
+56,San Salvador,Centro,13.66339,-89.217364,Call center,134,2026-08-03
+57,Mejicanos,Centro,13.751002,-89.217063,App,299,2026-08-15
+58,Mejicanos,Centro,13.741806,-89.185562,Web,1086,2026-08-25
+59,Soyapango,Centro,13.700992,-89.138919,App,436,2026-08-26
+60,Santa Tecla,Centro,13.669693,-89.281593,Web,721,2026-08-28
+61,Apopa,Centro,13.790939,-89.195207,Web,87,2026-08-09
+62,San Vicente,Paracentral,13.631846,-88.773295,Tienda física,237,2026-08-14
+63,Apopa,Centro,13.800277,-89.159084,Call center,145,2026-08-30
+64,Mejicanos,Centro,13.718436,-89.212283,Tienda física,1185,2026-08-17
+65,San Miguel,Oriente,13.479913,-88.166831,Web,1003,2026-08-17
+66,Apopa,Centro,13.799067,-89.180674,Web,364,2026-08-16
+67,Chalatenango,Norte,14.048154,-88.930676,Web,912,2026-08-03
+68,Chalatenango,Norte,14.027487,-88.915105,Call center,1027,2026-08-17
+69,Soyapango,Centro,13.71395,-89.146075,App,365,2026-08-04
+70,Mejicanos,Centro,13.731409,-89.202861,Tienda física,461,2026-08-08
+71,Soyapango,Centro,13.696704,-89.13722,Web,1006,2026-08-18
+72,Soyapango,Centro,13.705088,-89.13516,Web,1058,2026-08-25
+73,San Salvador,Centro,13.706739,-89.224959,Web,952,2026-08-14
+74,Ahuachapán,Occidente,13.951871,-89.856679,App,66,2026-08-06
+75,Mejicanos,Centro,13.747433,-89.192073,Web,154,2026-08-02
+76,San Salvador,Centro,13.708188,-89.215798,Tienda física,506,2026-08-23
+77,Soyapango,Centro,13.68415,-89.114329,Tienda física,578,2026-08-17
+78,Zacatecoluca,Paracentral,13.519431,-88.887141,Web,1177,2026-08-21
+79,Soyapango,Centro,13.709533,-89.150977,Web,442,2026-08-15
+80,Santa Tecla,Centro,13.669673,-89.292915,App,1081,2026-08-03
+81,Mejicanos,Centro,13.745052,-89.205787,Tienda física,307,2026-08-21
+82,Nueva Concepción,Norte,14.116881,-89.289663,App,152,2026-08-01
+83,Soyapango,Centro,13.700686,-89.16295,Tienda física,198,2026-08-26
+84,San Miguel,Oriente,13.489455,-88.184523,Tienda física,772,2026-08-15
+85,Usulután,Oriente,13.350506,-88.464713,Web,52,2026-08-04
+86,Soyapango,Centro,13.7107,-89.12983,App,290,2026-08-31
+87,San Miguel,Oriente,13.49239,-88.183722,Tienda física,660,2026-08-02
+88,Apopa,Centro,13.807879,-89.169083,Tienda física,638,2026-08-15
+89,Ahuachapán,Occidente,13.909545,-89.859137,App,898,2026-08-28
+90,Ahuachapán,Occidente,13.901491,-89.852859,App,1074,2026-08-20
+91,Santa Ana,Occidente,13.981221,-89.58582,Tienda física,601,2026-08-04
+92,San Salvador,Centro,13.688208,-89.189708,Tienda física,546,2026-08-19
+93,La Unión,Oriente,13.349074,-87.862477,Tienda física,748,2026-08-27
+94,Apopa,Centro,13.79357,-89.196083,App,225,2026-08-23
+95,Santa Tecla,Centro,13.683656,-89.265434,App,976,2026-08-24
+96,San Salvador,Centro,13.692404,-89.248233,Call center,178,2026-08-02
+97,Sonsonate,Occidente,13.727116,-89.71453,App,1171,2026-08-30
+98,San Miguel,Oriente,13.485042,-88.177289,Call center,690,2026-08-08
+99,San Salvador,Centro,13.681169,-89.203296,App,1163,2026-08-04
+100,Mejicanos,Centro,13.738171,-89.208043,App,182,2026-08-26
+101,Soyapango,Centro,13.677309,-89.139762,Web,1121,2026-08-13
+102,Ahuachapán,Occidente,13.923062,-89.852922,App,204,2026-08-23
+103,Santa Tecla,Centro,13.677469,-89.296503,Tienda física,151,2026-08-31
+104,San Miguel,Oriente,13.486056,-88.170024,Web,592,2026-08-23
+105,Apopa,Centro,13.81646,-89.181858,Tienda física,907,2026-08-18
+106,San Vicente,Paracentral,13.643014,-88.780246,Call center,258,2026-08-03
+107,Santa Tecla,Centro,13.669652,-89.277498,App,948,2026-08-11
+108,Apopa,Centro,13.811438,-89.186434,App,238,2026-08-05
+109,Santa Tecla,Centro,13.68396,-89.271859,Call center,413,2026-08-10
+110,San Vicente,Paracentral,13.625607,-88.770285,Web,483,2026-08-19
+111,La Unión,Oriente,13.332003,-87.835705,Web,714,2026-08-17
+112,Soyapango,Centro,13.736701,-89.14007,Web,1092,2026-08-19
+113,San Miguel,Oriente,13.493177,-88.210769,App,890,2026-08-10
+114,La Unión,Oriente,13.35409,-87.840138,Tienda física,663,2026-08-07
+115,Santa Ana,Occidente,13.989217,-89.549762,Tienda física,214,2026-08-04
+116,Santa Ana,Occidente,14.006319,-89.541583,Tienda física,443,2026-08-06
+117,Soyapango,Centro,13.715024,-89.164138,Web,744,2026-08-15
+118,San Salvador,Centro,13.70101,-89.223532,App,880,2026-08-02
+119,Zacatecoluca,Paracentral,13.521228,-88.866373,Web,873,2026-08-27
+120,Zacatecoluca,Paracentral,13.515079,-88.879401,Call center,720,2026-08-08
+121,Ahuachapán,Occidente,13.915245,-89.865254,Tienda física,1098,2026-08-08
+122,Apopa,Centro,13.799939,-89.149951,App,1052,2026-08-12
+123,Apopa,Centro,13.808751,-89.16484,Web,129,2026-08-19
+124,San Miguel,Oriente,13.491369,-88.181093,Call center,568,2026-08-14
+125,Zacatecoluca,Paracentral,13.517901,-88.874229,App,1013,2026-08-01
+126,Zacatecoluca,Paracentral,13.510755,-88.866031,Web,508,2026-08-09
+127,Usulután,Oriente,13.36313,-88.459558,Tienda física,744,2026-08-03
+128,Ahuachapán,Occidente,13.929329,-89.834873,Call center,448,2026-08-18
+129,San Salvador,Centro,13.665051,-89.208114,Web,87,2026-08-27
+130,Santa Tecla,Centro,13.676438,-89.282649,Web,531,2026-08-24

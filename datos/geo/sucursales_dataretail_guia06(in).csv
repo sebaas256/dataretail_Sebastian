@@ -1,0 +1,16 @@
+municipio,departamento,region,latitud,longitud,ventas_mes,clientes_mes,ticket_promedio,variacion_pct,categoria_dominante
+San Salvador,San Salvador,Centro,13.6929,-89.2182,28000,973,28.78,12.0,Farmacia y salud
+Santa Tecla,La Libertad,Centro,13.6769,-89.2797,24500,730,33.56,7.9,Ropa y calzado
+Soyapango,San Salvador,Centro,13.7102,-89.1372,21000,606,34.65,4.0,Farmacia y salud
+Apopa,San Salvador,Centro,13.8072,-89.1793,18769,575,32.64,8.6,Electrónica
+Mejicanos,San Salvador,Centro,13.7392,-89.2114,23311,553,42.15,12.8,Farmacia y salud
+Santa Ana,Santa Ana,Occidente,13.9942,-89.5597,20666,606,34.1,8.2,Electrónica
+Sonsonate,Sonsonate,Occidente,13.7189,-89.7241,10500,320,32.81,-5.0,Ropa y calzado
+Ahuachapán,Ahuachapán,Occidente,13.9214,-89.8451,9200,247,37.25,-3.4,Alimentos
+San Miguel,San Miguel,Oriente,13.4833,-88.1833,24000,789,30.42,15.0,Farmacia y salud
+Usulután,Usulután,Oriente,13.35,-88.45,21041,505,41.67,11.7,Hogar
+La Unión,La Unión,Oriente,13.3369,-87.8442,23670,808,29.29,3.8,Alimentos
+Zacatecoluca,La Paz,Paracentral,13.5167,-88.8667,10955,244,44.9,2.3,Hogar
+San Vicente,San Vicente,Paracentral,13.6411,-88.7847,12073,293,41.2,1.9,Farmacia y salud
+Chalatenango,Chalatenango,Norte,14.0333,-88.9333,7800,248,31.45,-2.1,Hogar
+Nueva Concepción,Chalatenango,Norte,14.1167,-89.2833,6900,245,28.16,-4.5,Hogar
